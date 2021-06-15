@@ -9,7 +9,7 @@
 ## Description
 This budget tracker is a full stack application designed so the user can add expenses and deposits to their budget with or without a connection. When entering transactions offline, they will populate the total when brought back online.
 
-### [Click this link to view the deployed application] (https://) 
+### [Click this link to view the deployed application] (https://git.heroku.com/secure-hollows-27877.git) 
 
 ## Technology
 * JavaScript
@@ -17,16 +17,14 @@ This budget tracker is a full stack application designed so the user can add exp
 * Express.js
 * MongoDB
 * Mongoose ODM
-* Morgan.js
-* Chart.js
-* Service worker
-* Manifest
+* IndexedDB
+* Webmanifest
+* Progressive Web App
 
 ## Screenshots
 
-![budgett-tracker](assets/enter-workout.png)
-![budget-tracker](assets/dashboard.png)
-![budget-tracker](assets/workout-tracker.png)
+![budgett-tracker](assets/budget-tracker.png)
+
 
 ## Demonstration
-![budget-tracker](assets/workout-tracker.gif)
+![budget-tracker](assets/budget-tracker.gif)
